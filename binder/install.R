@@ -1,5 +1,6 @@
 #install.packages("tidyverse", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("ExPanDaR", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("skimr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 #install.packages("rio", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 #install.packages("data.table", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 #install.packages("httr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
