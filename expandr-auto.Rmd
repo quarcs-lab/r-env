@@ -14,10 +14,16 @@ output:
 suppressWarnings(suppressMessages({
   library(knitr)
   library(kableExtra)
+  library(ggplot2)
+  library(dplyr)
+  library(readr)
+  library(tidyr)
+  library(stargazer)
+  library(haven)
   library(htmltools)
-  library(tidyverse)
   library(scales)
   library(ExPanDaR)
+  library(skimr)
 }))
 knitr::opts_chunk$set(fig.align = 'center')
 
